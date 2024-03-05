@@ -1,0 +1,4 @@
+##Lab 1
+- Creating a graph, using a nx library, naming the graph
+- adding nodes and edges (graph.add_node, graph.add_edge)
+ - visualizing  and inspecting the graph
